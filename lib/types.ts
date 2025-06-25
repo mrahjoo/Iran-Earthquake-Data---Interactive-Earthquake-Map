@@ -49,4 +49,3 @@ export interface EarthquakeData {
   }
   features: Earthquake[]
 }
-

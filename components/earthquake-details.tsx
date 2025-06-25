@@ -123,4 +123,3 @@ export default function EarthquakeDetails({ earthquake, onClose }: EarthquakeDet
     </Card>
   )
 }
-

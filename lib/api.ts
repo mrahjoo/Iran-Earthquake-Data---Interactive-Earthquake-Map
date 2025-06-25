@@ -190,4 +190,3 @@ function generateFallbackData(minMagnitude: number): EarthquakeData {
     features: [],
   }
 }
-
